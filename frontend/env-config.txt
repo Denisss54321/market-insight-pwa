@@ -1,0 +1,5 @@
+# Скопируй этот файл в .env.local и настрой значения
+
+NEXT_PUBLIC_API_URL=ws://localhost:8000
+# Для продакшена используй:
+# NEXT_PUBLIC_API_URL=ws://your-backend-url.onrender.com
